@@ -1,4 +1,4 @@
-DANILA License
+DANILA LOBANOV
 
 Copyright (c) 2018—preset Danila Zakharchenko
 
